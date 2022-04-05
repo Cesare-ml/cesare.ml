@@ -4,10 +4,10 @@ collections:
     output: true
     permalink: /:name
     order:
-      - donnola-che-fa-la-doccia
-      - gorilla-lisergico
-      - materiali-vivi
-      - annegamento
+      - donnola-che-fa-la-doccia.md
+      - gorilla-lisergico.md
+      - materiali-vivi.md
+      - annegamento.md
 
 defaults:
   - scope:
